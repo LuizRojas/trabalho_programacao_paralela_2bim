@@ -1,0 +1,6 @@
+@trabalho_p_paralela_2_bim_HostAddress = http://localhost:5209
+
+GET {{trabalho_p_paralela_2_bim_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
